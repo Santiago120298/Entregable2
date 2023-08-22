@@ -1,0 +1,256 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+
+}
+.barra{
+    background-color: #2C3E50;
+    height: 70px;
+    padding: 24px;
+    
+    
+}
+.barra h2{
+    color: white;
+    font-size: 28px;
+    position:relative; 
+    top: 0px;
+    align-items: center;
+    padding-left: 250px;
+}
+
+
+.container{
+    text-align: right;
+    position: relative;
+    bottom: 50px;
+    padding-right: 300px;
+    
+}
+.container a{
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+    padding: 16px;
+    max-width: 100%;
+
+   
+}
+a:hover{
+    color: #1abc9c;
+}
+.Inicio{
+    background-color: #1abc9c;
+    margin-top: -43px;
+    width: 100%;
+    height: 700px;
+
+    
+    
+}
+.Inicio h1{
+    color: white;
+    font-size: 64px;
+    position: relative;
+    left: 35rem; top: 25rem;
+}
+
+.Portfolio h2{
+    background-color: white;
+    margin: -10px;
+    text-align: center;
+    font-size: 48px;
+    padding: 96px 0px;
+    
+}
+table{
+    margin: 0 auto;
+}
+table img{
+    height: 288px;
+    width: 400px;
+    padding: 20px;
+    border-radius: 10%;
+}
+.About{
+    background-color: #1abc9c;
+    height: 500px;
+}
+.About h2{
+    background: #1abc9c;
+    font: 48px;
+    margin: -12px;
+    padding: 20px;
+    position: relative;
+    top: 4rem;
+    color: white;
+
+}
+
+.p1{
+    text-align: left;
+    width: 500px;
+    position: relative;
+    left:25rem; bottom: -6.5rem;
+    color: white;
+    font-size: 20px;
+    
+}
+.p2{
+    text-align: left;
+    width: 500px;
+    position: relative;
+    left:60rem; bottom: 2rem;
+    color: white;
+    font-size: 20px;
+
+}
+.Contact h2{
+    height: 600px;
+    width: 100% ;
+}
+footer{
+    background-color: #2C3E50;
+    height:272.8px;
+    width:100%
+}
+article{
+    color: white;
+    
+}
+.LOCATION{
+    display: inline;
+    position:relative;
+    left:15rem;top:3rem;     
+    margin: 0px 0px 24px;
+    padding: 0PX 12PX;
+    font-size: 24px;
+}
+
+.AROUND{
+    display: inline;
+    position:relative;
+    left:30rem;top:3rem; bottom: 5rem;     
+    margin: 0px 0px 24px;
+    padding: 0PX 12PX;
+    font-size: 24px;
+}
+.ABOUTT{
+    display: inline;
+    position:relative;
+    left:45rem;top:3rem;     
+    margin: 0px 0px 24px;
+    padding: 0PX 12PX;
+    font-size: 24px;
+}
+.footer1{
+    display: inline-block;
+    position: relative;
+    left: 15rem;top: 4rem;
+    font-size: 20px;
+    width:200px;
+}
+.footer3{
+    position: relative;
+    left: 70rem; top: -3rem;
+    width:450px;
+    font-size: 20px;
+    text-align: left;
+    
+}
+.inicio-image{
+    width: 15rem;
+    position: relative;
+    left: 46rem; bottom: 0rem;
+}
+.Inicio i{
+    font-size: 2rem;
+    position: relative;
+    left: 53rem; bottom: 0rem;top: 8rem;
+    color: white;
+}
+.inicio-dash{
+    font-size: 2rem;
+    position: relative;
+    left: 56rem; bottom: 0rem;top: 5.5rem;
+    color: white;
+    
+
+}
+.inicio-dashh{
+    font-size: 2rem;
+    position: relative;
+    left: 42rem; bottom: 0rem;top: 3.1rem;
+    color: white;
+
+}
+.Inicio h2{
+    font-size: 1.5rem;
+    color: #FFFFFF;
+    position: relative;
+    left: 39rem; bottom: 0rem;top: 3.1rem;
+}
+.About i{
+    color: white;
+}
+.About-star{
+    display: inline;
+    font-size: 2rem;
+    position: relative;
+    left: 53rem; bottom: 0rem;top: 8rem;
+    color: white;
+}
+
+
+.Message{
+    height: 10rem;
+}
+
+.Forms input{
+    display: block;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font-size: 1.5rem;
+    color: #212529;
+    border-bottom:0.125rem solid #ced4da;
+    height: 5.5rem;
+}
+.Contact h2{
+    font-size: 48px;
+    position: relative;
+    left: 45rem; top: 4rem;
+
+}
+
+.Contact i{
+    font-size: 2rem;
+    position: relative;
+    left: 54rem; bottom: 30rem;
+    color: #2c3e50;
+}
+.Contact-dash{
+    font-size: 2rem;
+    position: relative;
+    left: 40rem; bottom: 30.5rem;
+    
+}
+.Contact-dashh{
+    font-size: 2rem;
+    position: relative;
+    left: 45rem; bottom: 30.5rem;
+    
+}
+.Forms{
+    position: relative;
+    left: 40rem; bottom: 25rem;
+}
+.footer2{
+    display: inline;
+    position: relative;
+    left: 29rem; top: 3rem;
+    font-size: 3.25rem;
+}
+.About i{
+    position: relative;
+    left: 25rem;
+}
